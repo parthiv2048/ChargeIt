@@ -10,6 +10,7 @@ ChargeIt is an iOS app that finds nearby charging stations for your electric veh
 - XCode version 26.2
 
 ## Features
+The UI has been created using Storyboards, but the functionality is yet to be implemented. The following UI elements have been added -
 - Create an account with your email, name, and phone number
 - Sign in using a created account, Google, or Facebook
 - Use Forgot Password to reset your account password
